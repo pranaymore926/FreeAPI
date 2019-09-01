@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5828" started-at="2019-08-17T07:17:11Z" finished-at="2019-08-17T07:17:17Z">
+  <suite name="Default suite" duration-ms="13177" started-at="2019-08-27T17:33:28Z" finished-at="2019-08-27T17:33:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5828" started-at="2019-08-17T07:17:11Z" finished-at="2019-08-17T07:17:17Z">
-      <class name="apiTestingPackage.basicDemoThree">
-        <test-method status="PASS" signature="addAndDelete()[pri:0, instance:apiTestingPackage.basicDemoThree@6c3708b3]" name="addAndDelete" duration-ms="5727" started-at="2019-08-17T07:17:11Z" finished-at="2019-08-17T07:17:17Z">
+    <test name="Default test" duration-ms="13177" started-at="2019-08-27T17:33:28Z" finished-at="2019-08-27T17:33:41Z">
+      <class name="apiTestingPackage.basicsDemoTwo">
+        <test-method status="PASS" signature="postData()[pri:0, instance:apiTestingPackage.basicsDemoTwo@6c3708b3]" name="postData" duration-ms="13118" started-at="2019-08-27T17:33:28Z" finished-at="2019-08-27T17:33:41Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addAndDelete -->
-      </class> <!-- apiTestingPackage.basicDemoThree -->
+        </test-method> <!-- postData -->
+      </class> <!-- apiTestingPackage.basicsDemoTwo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
